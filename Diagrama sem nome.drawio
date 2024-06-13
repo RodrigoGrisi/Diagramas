@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T23:11:43.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9s5ZFwa-oJaqmG7WR6pC" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T23:13:28.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="P-lqZYn2A20ylwy44KFg" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -77,14 +77,27 @@
         <mxCell id="cGPyefXKjfzQDKYQe5kn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cGPyefXKjfzQDKYQe5kn-1" target="cGPyefXKjfzQDKYQe5kn-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cGPyefXKjfzQDKYQe5kn-20" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cGPyefXKjfzQDKYQe5kn-17">
+          <mxGeometry x="-0.0337" y="1" relative="1" as="geometry">
+            <mxPoint x="23" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cGPyefXKjfzQDKYQe5kn-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Cliente aprovou a&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;sugestão de conteúdo?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="430" width="212.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cGPyefXKjfzQDKYQe5kn-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pedido Realizado com sucesso.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="39.370000000000005" y="570" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cGPyefXKjfzQDKYQe5kn-9" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="cGPyefXKjfzQDKYQe5kn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cGPyefXKjfzQDKYQe5kn-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cGPyefXKjfzQDKYQe5kn-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;O cliente pode editar a sugestão de conteúdo&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="500" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cGPyefXKjfzQDKYQe5kn-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pedido Realizado com sucesso.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344.38" y="670" width="243.75" height="60" as="geometry" />
