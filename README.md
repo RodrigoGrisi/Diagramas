@@ -1,3 +1,3 @@
-##Pasta de Diagramas  🔷-🔷
+Pasta de Diagramas  🔷-🔷
 
 
